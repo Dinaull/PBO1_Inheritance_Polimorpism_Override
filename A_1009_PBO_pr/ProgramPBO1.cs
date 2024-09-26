@@ -18,7 +18,7 @@ class Program
 
         kebunBinatang.DaftarHewan();
 
-        Console.WriteLine("Penerapan Polimorphism:");
+        Console.WriteLine("Penerapan polymorphism:");
         singa.Mengaum();
         ular.Merayap();
 
